@@ -7,6 +7,12 @@ Animations
 ==========
 
 * flame.py -- this is a simple flame effect. It's a long way from perfect, both in look and performance, but it's a start! 
+* wine.py -- a simple animation of a wine glass being drunk
+* Todo:
+** twinkle
+** rainbow
+** PacMan
+** weather
 
 License
 =======
