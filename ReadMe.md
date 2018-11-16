@@ -8,11 +8,12 @@ Animations
 
 * flame.py -- this is a simple flame effect. It's a long way from perfect, both in look and performance, but it's a start! 
 * wine.py -- a simple animation of a wine glass being drunk
+* rainbow.py -- attempt at a rainbow (with rain and sun) but this is pretty tricky on an 8x8 grid - it bight be worth adding some sparkle to the rainbow
+* rain.py -- a cloud with rain
 * Todo:
-** twinkle
-** rainbow
-** PacMan
-** weather
+ * twinkle
+ * PacMan
+ * lightenning
 
 License
 =======
