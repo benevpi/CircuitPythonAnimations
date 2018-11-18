@@ -10,6 +10,7 @@ Animations
 * wine.py -- a simple animation of a wine glass being drunk
 * rainbow.py -- attempt at a rainbow (with rain and sun) but this is pretty tricky on an 8x8 grid - it bight be worth adding some sparkle to the rainbow
 * rain.py -- a cloud with rain
+* lightening.py -- rain but with added pazzaz
 * Todo:
  * twinkle
  * PacMan
