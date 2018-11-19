@@ -29,5 +29,5 @@ Todo:
 
 License
 =======
-GPLv3 -- you know where to find it.
+GPLv3 -- you know where to find it -- or contact me if you want a comercial license.
 
