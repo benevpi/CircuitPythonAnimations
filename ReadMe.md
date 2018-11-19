@@ -1,7 +1,12 @@
 A library of animations in Circuit Python
 
 This will hopefully build up to a set of animations of different things that you can use in RBG LED matrices. Each animation will output an 8x8 (this may be adjustable in some) array of (R, G, B) tuples that can be written to your grid.
-I hope that there'll be a common interface for each on, but I want to get a few animations up and running first.
+
+As much as possible, I've tried to introduce some randomization so the animations are a little more interesting -- this works particularly well on flame and lightening.
+
+I hope that there'll be a common interface for each on, but I want to get a few animations up and running first -- looks like I'm converging around frame as the current frame and calc_next_frame() to move on. Need to update flame though as this was created first.
+
+The examples are all tested on a circuit playground express running on a crickit, but it should work on most Circuit Python hardware.
 
 Animations
 ==========
@@ -12,10 +17,15 @@ Animations
 * rain.py -- a cloud with rain
 * lightening.py -- rain but with added pazzaz
 * heart.py -- a stylised heartbeat
-* Todo:
- * twinkle
- * PacMan
- * lightenning
+
+Todo:
+====
+* twinkle
+* PacMan
+* Smily
+* looking eyes
+* Maybe heart with ecg trace
+* Add images of each one -- need a nice setup with a diffuser.
 
 License
 =======
