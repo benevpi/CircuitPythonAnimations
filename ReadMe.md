@@ -26,6 +26,7 @@ Todo:
 * looking eyes
 * Maybe heart with ecg trace
 * Add images of each one -- need a nice setup with a diffuser.
+* Would be really cool to add some data outputs -- graphs and the like -- a scrolling chart, a falling heatmap perhaps, a radar chart, a 'speedometer'-stype guage if it works.
 
 License
 =======
